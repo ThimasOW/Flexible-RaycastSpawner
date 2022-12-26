@@ -12,8 +12,10 @@ be constrained in the Spawn() method using EulerAngles, if the objects should no
 
 Example configuration:
 ![image](https://user-images.githubusercontent.com/79156616/209563651-f8bd3463-d7e6-4ca5-872b-18faa3a24912.png)
+
 Note: A singleton List of animal prefabs were used in this example
 
 Result:
 ![image](https://user-images.githubusercontent.com/79156616/209563774-480ed7ee-a07a-442c-a9b9-c5ac3398c019.png)
+
 Debug.DrawLine used to visualize spawns.
